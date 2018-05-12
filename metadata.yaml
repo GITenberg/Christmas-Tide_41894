@@ -1,0 +1,42 @@
+_repo: Christmas-Tide_41894
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41894-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+  - agent_name: Harrison, Elizabeth
+    birthdate: 1849
+    deathdate: 1927
+    gutenberg_agent_id: '36613'
+    url: http://www.gutenberg.org/2009/agents/36613
+description: ''
+gutenberg_issued: '2013-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PN'
+- !lcsh 'Christmas'
+tableOfContents: 'Christmas presents -- The place of toys in the education of a child
+  -- How to celebrate Christmas: suggestions for mothers and kindergartners -- Santa
+  Claus -- Christmas time -- A Christmas carol -- Little Gretchen and the wooden shoe:
+  a Christmas story for little children -- The legend of the Christ Child: a story
+  for Christmas Eve -- A Christmas song -- Birth and childhood of Jesus; the shepherds
+  and the angels.'
+title: Christmas-Tide
+url: http://www.gutenberg.org/ebooks/41894
